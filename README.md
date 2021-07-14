@@ -10,12 +10,12 @@ Contributions are welcome. Feel free to open a pull request with changes.
 
 ### Running it Locally
 
-It can be helpful to preview changes on your computer before opening a pull request. *The Markdown Guide* uses the [Jekyll static site generator](http://jekyllrb.com/). After forking or cloning the repository, perform the following steps to generate the site and preview it:
+It can be helpful to preview changes on your computer before opening a pull request. *The Markdown Guide* uses the [Eleventy static site generator](http://11ty.dev/). After forking or cloning the repository, perform the following steps to generate the site and preview it:
 
-- Make sure you have ruby installed on your computer. See https://www.ruby-lang.org/en/downloads/
-- `bundle install`
-- `bundle exec jekyll serve`
-- Point your browser at http://127.0.0.1:4000/
+- Make sure you have Node.JS installed on your computer. See https://nodejs.org/en/
+- `npm install`
+- `npm start`
+- Point your browser at http://127.0.0.1:8080/
 
 ### Adding tools
 
