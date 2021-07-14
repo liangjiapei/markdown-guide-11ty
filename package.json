@@ -1,0 +1,26 @@
+{
+  "name": "markdown-guide",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://github.com/mattcone/markdown-guide/workflows/tests/badge.svg?branch=master)](https://github.com/mattcone/markdown-guide/actions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rm -rf ./_site",
+    "build": "npm run clean && eleventy",
+    "start": "eleventy --serve --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattcone/markdown-guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattcone/markdown-guide/issues"
+  },
+  "homepage": "https://github.com/mattcone/markdown-guide#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}

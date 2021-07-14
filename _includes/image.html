@@ -3,5 +3,5 @@
              https://mdg.imgix.net{{ include.file }}?auto=format&fit=clip&q=40&w=1080 1080w"
              src="https://mdg.imgix.net{{ include.file }}" {% if include.class %}class="{{ include.class }}"{% else %}class="img-fluid"{% endif %} {% if include.width %}width="{{ include.width }}%"{% endif %} {% if include.title %}title="{{ include.title }}"{% endif %} alt="{{ include.alt }}" {% if include.lazy %}loading="lazy"{% endif %} sizes="100vw">
 {% else %}
-<img src="{{ include.file }}" {% if include.class %}class="{{ include.class }}"{% else %}class="img-fluid"{% endif %} {% if include.width %}width="{{ include.width }}%"{% endif %} {% if include.title %}title="{{ include.title }}"{% endif %} alt="{{ include.alt }}" {% if include.lazy %}loading="lazy"{% endif %} sizes="100vw">
+<img src="{{ file }}" {% if include.class %}class="{{ class }}"{% else %}class="img-fluid"{% endif %} {% if include.width %}width="{{ width }}%"{% endif %} {% if include.title %}title="{{ title }}"{% endif %} alt="{{ alt }}" {% if include.lazy %}loading="lazy"{% endif %} sizes="100vw">
 {% endif %}
