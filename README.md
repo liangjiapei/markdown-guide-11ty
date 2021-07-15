@@ -23,7 +23,7 @@ See [this page](https://github.com/mattcone/markdown-guide/wiki/Markdown-tool-di
 
 ## Deployment
 
-Pull requests merged to the master branch are automatically deployed to the production website.
+Pull requests merged to the master branch are automatically deployed to the production website triggered by Github Actions.
 
 ## License
 
