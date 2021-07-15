@@ -17,7 +17,7 @@ description: "Learn Markdown in 60 pages. The Markdown Guide book includes every
     <div class="row" style="padding-top:10px; margin-bottom:55px">
       <div class="col-sm-12">
         <a class="btn btn-success btn-lg" style="margin-right: 20px; margin-top: 5px" href="https://gum.co/markdownguide?wanted=true">Buy now for $5</a>
-        <a class="btn btn-outline-secondary btn-lg" style="margin-top: 5px" href="/assets/markdown-guide-sample.pdf">Read free sample</a>
+        <a class="btn btn-outline-secondary btn-lg" style="margin-top: 5px" href="/markdown-guide-11ty/assets/markdown-guide-sample.pdf">Read free sample</a>
       </div>
     </div>
 
@@ -70,12 +70,12 @@ description: "Learn Markdown in 60 pages. The Markdown Guide book includes every
 <div class="container" style="padding-bottom:20px;">
   <div class="row">
     <div class="col-sm text-center">
-      <a href="/assets/markdown-guide-sample.pdf">
+      <a href="/markdown-guide-11ty/assets/markdown-guide-sample.pdf">
         {% include image.html file="/assets/images/book-page-1.png" alt="The Markdown Guide book page one" class="img-fluid border rounded" width="90" lazy="yes" %}
       </a>
     </div>
     <div class="col-sm text-center">
-      <a href="/assets/markdown-guide-sample.pdf">
+      <a href="/markdown-guide-11ty/assets/markdown-guide-sample.pdf">
         {% include image.html file="/assets/images/book-page-2.png" alt="The Markdown Guide book page two" class="img-fluid border rounded" width="90" lazy="yes" %}
       </a>
     </div>
