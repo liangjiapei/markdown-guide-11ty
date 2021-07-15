@@ -28,7 +28,7 @@ The rendered output looks like this:
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 <div class="alert alert-info">
-  <i class="fas fa-info-circle"></i> <strong>Note:</strong> To link to an element on the same page, see <a href="/extended-syntax/#linking-to-heading-ids">linking to heading IDs</a>.
+  <i class="fas fa-info-circle"></i> <strong>Note:</strong> To link to an element on the same page, see <a href="/markdown-guide-11ty/extended-syntax/#linking-to-heading-ids">linking to heading IDs</a>.
 </div>
 
 ### Adding Titles

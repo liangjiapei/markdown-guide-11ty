@@ -27,7 +27,7 @@ The basic syntax endpoint contains documentation about the Markdown elements out
 
 <div class="card">
   <h6 class="card-header no-anchor" data-toc-skip>API Endpoint</h6>
-  <div class="card-body"><a href="/api/v1/basic-syntax.json">/api/v1/basic-syntax.json</a></div>
+  <div class="card-body"><a href="/markdown-guide-11ty/api/v1/basic-syntax.json">/api/v1/basic-syntax.json</a></div>
 </div>
 
 ### Request
@@ -44,7 +44,7 @@ The cheat sheet endpoint provides an overview of the most popular basic and exte
 
 <div class="card">
   <h6 class="card-header no-anchor" data-toc-skip>API Endpoint</h6>
-  <div class="card-body"><a href="/api/v1/cheat-sheet.json">/api/v1/cheat-sheet.json</a></div>
+  <div class="card-body"><a href="/markdown-guide-11ty/api/v1/cheat-sheet.json">/api/v1/cheat-sheet.json</a></div>
 </div>
 
 ### Request

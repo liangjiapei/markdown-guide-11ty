@@ -38,127 +38,127 @@ The Slack message interface provides support for the following the Markdown elem
   </thead>
   <tbody>
     <tr>
-      <td><a href="/basic-syntax#headings">Headings</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax#headings">Headings</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#paragraphs-1">Paragraphs</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax/#paragraphs-1">Paragraphs</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#line-breaks">Line Breaks</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax/#line-breaks">Line Breaks</a></td>
       <td class="table-danger">No</td>
       <td>The Markdown syntax is not supported, but you can press the Shift and Return keys to go to the next line.</td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax#bold">Bold</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax#bold">Bold</a></td>
       <td class="table-danger">No</td>
       <td>The Markdown syntax is not supported, but you can add bold styling with single asterisks, which is the standard Markdown syntax for italic. Very confusing!</td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax#italic">Italic</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax#italic">Italic</a></td>
       <td class="table-warning">Partial</td>
       <td>Only underscores are supported.</td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax#blockquotes-1">Blockquotes</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax#blockquotes-1">Blockquotes</a></td>
       <td class="table-success">Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax#ordered-lists">Ordered Lists</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax#ordered-lists">Ordered Lists</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax#unordered-lists">Unordered Lists</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax#unordered-lists">Unordered Lists</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax#code">Code</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax#code">Code</a></td>
       <td class="table-warning">Partial</td>
-      <td><a href="/basic-syntax/#code-blocks">Code blocks</a> are not supported.</td>
+      <td><a href="/markdown-guide-11ty/basic-syntax/#code-blocks">Code blocks</a> are not supported.</td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#horizontal-rules">Horizontal Rules</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax/#horizontal-rules">Horizontal Rules</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#links">Links</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax/#links">Links</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#images-1">Images</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax/#images-1">Images</a></td>
       <td class="table-danger">No</td>
       <td>The Markdown syntax is not supported, but you can drag and drop images to share them.</td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#tables">Tables</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#tables">Tables</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#fenced-code-blocks">Fenced Code Blocks</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#fenced-code-blocks">Fenced Code Blocks</a></td>
       <td class="table-success">Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#syntax-highlighting">Syntax Highlighting</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#syntax-highlighting">Syntax Highlighting</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#footnotes">Footnotes</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#footnotes">Footnotes</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#heading-ids">Heading IDs</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#heading-ids">Heading IDs</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#definition-lists">Definition Lists</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#definition-lists">Definition Lists</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#strikethrough">Strikethrough</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#strikethrough">Strikethrough</a></td>
       <td class="table-warning">Partial</td>
       <td>Use only one tilde symbol before and after the phrase.</td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#task-lists">Task Lists</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#task-lists">Task Lists</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#copying-and-pasting-emoji">Emoji (copy and paste)</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#copying-and-pasting-emoji">Emoji (copy and paste)</a></td>
       <td class="table-success">Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#using-emoji-shortcodes">Emoji (shortcodes)</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#using-emoji-shortcodes">Emoji (shortcodes)</a></td>
       <td class="table-success">Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#automatic-url-linking">Automatic URL Linking</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#automatic-url-linking">Automatic URL Linking</a></td>
       <td class="table-success">Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#disabling-automatic-url-linking">Disabling Automatic URL Linking</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#disabling-automatic-url-linking">Disabling Automatic URL Linking</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#html">HTML</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax/#html">HTML</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
@@ -191,127 +191,127 @@ The Slack post interface provides support for the following Markdown elements.
   </thead>
   <tbody>
     <tr>
-      <td><a href="/basic-syntax#headings">Headings</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax#headings">Headings</a></td>
       <td class="table-warning">Partial</td>
       <td>Only heading levels one and two are supported. Only number signs are supported.</td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#paragraphs-1">Paragraphs</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax/#paragraphs-1">Paragraphs</a></td>
       <td class="table-success">Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#line-breaks">Line Breaks</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax/#line-breaks">Line Breaks</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax#bold">Bold</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax#bold">Bold</a></td>
       <td class="table-danger">No</td>
       <td>The Markdown syntax is not supported, but you can add bold styling with single asterisks, which is the standard Markdown syntax for italic. Very confusing!</td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax#italic">Italic</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax#italic">Italic</a></td>
       <td class="table-warning">Partial</td>
       <td>Only underscores are supported.</td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax#blockquotes-1">Blockquotes</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax#blockquotes-1">Blockquotes</a></td>
       <td class="table-success">Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax#ordered-lists">Ordered Lists</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax#ordered-lists">Ordered Lists</a></td>
       <td class="table-success">Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax#unordered-lists">Unordered Lists</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax#unordered-lists">Unordered Lists</a></td>
       <td class="table-success">Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax#code">Code</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax#code">Code</a></td>
       <td class="table-success">Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#horizontal-rules">Horizontal Rules</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax/#horizontal-rules">Horizontal Rules</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#links">Links</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax/#links">Links</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#images-1">Images</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax/#images-1">Images</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#tables">Tables</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#tables">Tables</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#fenced-code-blocks">Fenced Code Blocks</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#fenced-code-blocks">Fenced Code Blocks</a></td>
       <td class="table-success">Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#syntax-highlighting">Syntax Highlighting</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#syntax-highlighting">Syntax Highlighting</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#footnotes">Footnotes</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#footnotes">Footnotes</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#heading-ids">Heading IDs</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#heading-ids">Heading IDs</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#definition-lists">Definition Lists</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#definition-lists">Definition Lists</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#strikethrough">Strikethrough</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#strikethrough">Strikethrough</a></td>
       <td class="table-warning">Partial</td>
       <td>Use only one tilde symbol before and after the phrase.</td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#task-lists">Task Lists</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#task-lists">Task Lists</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#copying-and-pasting-emoji">Emoji (copy and paste)</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#copying-and-pasting-emoji">Emoji (copy and paste)</a></td>
       <td class="table-success">Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#using-emoji-shortcodes">Emoji (shortcodes)</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#using-emoji-shortcodes">Emoji (shortcodes)</a></td>
       <td class="table-success">Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#automatic-url-linking">Automatic URL Linking</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#automatic-url-linking">Automatic URL Linking</a></td>
       <td class="table-success">Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#disabling-automatic-url-linking">Disabling Automatic URL Linking</a></td>
+      <td><a href="/markdown-guide-11ty/extended-syntax/#disabling-automatic-url-linking">Disabling Automatic URL Linking</a></td>
       <td class="table-success">Yes</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#html">HTML</a></td>
+      <td><a href="/markdown-guide-11ty/basic-syntax/#html">HTML</a></td>
       <td class="table-danger">No</td>
       <td></td>
     </tr>

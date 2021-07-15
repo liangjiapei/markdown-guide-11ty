@@ -82,5 +82,5 @@ The rendered output looks like this:
 ```
 
 <div class="alert alert-info">
-  <i class="fas fa-info-circle"></i> <strong>Note:</strong> To create code blocks without indenting lines, use <a href="/extended-syntax/#fenced-code-blocks">fenced code blocks</a>.
+  <i class="fas fa-info-circle"></i> <strong>Note:</strong> To create code blocks without indenting lines, use <a href="/markdown-guide-11ty/extended-syntax/#fenced-code-blocks">fenced code blocks</a>.
 </div>
